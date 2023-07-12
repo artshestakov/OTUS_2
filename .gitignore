@@ -1,0 +1,8 @@
+/Bin
+/build
+/**/.vs
+/**/*-*
+/enc_temp_folder
+
+
+*.vcxproj.user
