@@ -1,5 +1,7 @@
 cmake_minimum_required(VERSION 3.12)
 
+set(VER_REVISION 1 CACHE INTERNAL "Patch version")
+
 project(homework_2 VERSION ${VER_REVISION})
 
 add_executable(homework_2
