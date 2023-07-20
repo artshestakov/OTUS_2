@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <vector>
 #include <string>
-#include <cstring>
+#include <cstring> //Для сборки в github actions
 #include <algorithm>
 //-----------------------------------------------------------------------------
 struct IPAddress
